@@ -1,3 +1,9 @@
+PROJET FAIT PAR:
+GAELLE GORGORI
+THOMAS FERNANDEZ
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
@@ -36,7 +42,7 @@ Basically, this is "error-driven development"... you'll keep running tests, hitt
 
 ### Troubleshooting
 
-* Don't name any of your directories with spaces in them! It will give you horribly frustrating error messages and code hates dealing with spaces.  For instance:
+* Don't name any of your directories with spaces in them! It will give you horribly frustrating error messages and code hates dealing with spaces.  For instance
 
   ```language-bash
   # BAD:
