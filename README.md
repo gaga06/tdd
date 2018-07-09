@@ -1,6 +1,5 @@
-PROJET FAIT PAR:
-GAELLE GORGORI
-THOMAS FERNANDEZ
+PROJET FAIT PAR: Thomas Fernadez & Gaëlle Gorgori
+
 
 
 
